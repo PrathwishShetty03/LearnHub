@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Full-Stack MERN Development Masterclass",
+    "description": "Master MongoDB, Express, React, and Node.js by building production-ready web applications from scratch.",
+    "instructorName": "Brad Traversy",
+    "price": 49.99,
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. MERN Stack Overview & Architecture", "content": "https://www.youtube.com/watch?v=7CqJlxBYj-M", "orderNumber": 1 },
+      { "title": "2. Setting up Node.js & Express Server", "content": "https://www.youtube.com/watch?v=L72fhGm1tfE", "orderNumber": 2 },
+      { "title": "3. MongoDB Atlas & Mongoose Schema Setup", "content": "https://www.youtube.com/watch?v=DZBGEExLfqk", "orderNumber": 3 },
+      { "title": "4. Building RESTful API Endpoints", "content": "https://www.youtube.com/watch?v=-MTSQjw5DrM", "orderNumber": 4 },
+      { "title": "5. User Authentication with JWT & Bcrypt", "content": "https://www.youtube.com/watch?v=mbsmsi7l3r4", "orderNumber": 5 },
+      { "title": "6. React Frontend Setup with Vite", "content": "https://www.youtube.com/watch?v=w7ejDZ8SWv8", "orderNumber": 6 },
+      { "title": "7. Connecting React Frontend to Express Backend", "content": "https://www.youtube.com/watch?v=nu_pCVPKzTk", "orderNumber": 7 },
+      { "title": "8. State Management with React Context API", "content": "https://www.youtube.com/watch?v=35lXWvCuM8o", "orderNumber": 8 },
+      { "title": "9. Full-Stack Deployment to Production", "content": "https://www.youtube.com/watch?v=22R6Z26XbW4", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "JavaScript Fundamentals for Beginners",
+    "description": "Learn modern JavaScript ES6+ from scratch including variables, DOM manipulation, async JavaScript, and promises.",
+    "instructorName": "Colt Steele",
+    "price": 29.99,
+    "thumbnail": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. Introduction to JavaScript & Environment Setup", "content": "https://www.youtube.com/watch?v=W6NZfCO5SIk", "orderNumber": 1 },
+      { "title": "2. Variables, Data Types & Operators", "content": "https://www.youtube.com/watch?v=edlFjlzxkSI", "orderNumber": 2 },
+      { "title": "3. Functions, Arrow Functions & Scope", "content": "https://www.youtube.com/watch?v=N8ap4k_1QEQ", "orderNumber": 3 },
+      { "title": "4. Arrays & High-Order Array Methods", "content": "https://www.youtube.com/watch?v=rRgD1yVwIvE", "orderNumber": 4 },
+      { "title": "5. Objects, Methods & 'this' Keyword", "content": "https://www.youtube.com/watch?v=YOla543Z2pM", "orderNumber": 5 },
+      { "title": "6. DOM Manipulation & Event Handling", "content": "https://www.youtube.com/watch?v=y17RuWkWdn8", "orderNumber": 6 },
+      { "title": "7. Asynchronous JS: Callbacks & Promises", "content": "https://www.youtube.com/watch?v=PoRJizFvM7s", "orderNumber": 7 },
+      { "title": "8. Async/Await & Fetch API", "content": "https://www.youtube.com/watch?v=V_Kr9OSfDeU", "orderNumber": 8 },
+      { "title": "9. Building an Interactive JS Mini Project", "content": "https://www.youtube.com/watch?v=dtKciwk_si4", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "React.js & Hooks Deep Dive",
+    "description": "Master modern React with Hooks, Component Lifecycle, Context API, React Router v6, and performance tuning.",
+    "instructorName": "Maximilian Schwarzmüller",
+    "price": 39.99,
+    "thumbnail": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. React Architecture & JSX Syntax", "content": "https://www.youtube.com/watch?v=bMknfKXIFA8", "orderNumber": 1 },
+      { "title": "2. Components, Props & Reusability", "content": "https://www.youtube.com/watch?v=4UZrsTqkcW4", "orderNumber": 2 },
+      { "title": "3. useState & Managing Component State", "content": "https://www.youtube.com/watch?v=O6P86uwfdR0", "orderNumber": 3 },
+      { "title": "4. useEffect & Handling Side Effects", "content": "https://www.youtube.com/watch?v=0ZJgIjIuY7U", "orderNumber": 4 },
+      { "title": "5. useRef, useMemo & useCallback", "content": "https://www.youtube.com/watch?v=t2ypzz6gJDA", "orderNumber": 5 },
+      { "title": "6. Context API for Global State", "content": "https://www.youtube.com/watch?v=5Lu34WIx2VU", "orderNumber": 6 },
+      { "title": "7. Client-Side Routing with React Router v6", "content": "https://www.youtube.com/watch?v=OMQ2QARHPo0", "orderNumber": 7 },
+      { "title": "8. Form Handling & Custom Hooks", "content": "https://www.youtube.com/watch?v=6ThXsUwLWvc", "orderNumber": 8 },
+      { "title": "9. Building & Deploying a Production React App", "content": "https://www.youtube.com/watch?v=2OHbjep_WjQ", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "Node.js & Express API Architecture",
+    "description": "Learn backend development with Node.js and Express, implementing RESTful routing, middleware, and database access.",
+    "instructorName": "Andrew Mead",
+    "price": 34.99,
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. Node.js Event Loop & Module System", "content": "https://www.youtube.com/watch?v=LAUi8pPlcUM", "orderNumber": 1 },
+      { "title": "2. File System (fs) & HTTP Module", "content": "https://www.youtube.com/watch?v=TlB_eWDSMt4", "orderNumber": 2 },
+      { "title": "3. Introduction to Express.js Framework", "content": "https://www.youtube.com/watch?v=gnsO8-xJ8rs", "orderNumber": 3 },
+      { "title": "4. Middleware & Request Pipeline", "content": "https://www.youtube.com/watch?v=lY6icfhap2s", "orderNumber": 4 },
+      { "title": "5. Express Routing & Controllers", "content": "https://www.youtube.com/watch?v=SccSCuHhOw0", "orderNumber": 5 },
+      { "title": "6. Error Handling & Custom Error Middleware", "content": "https://www.youtube.com/watch?v=DyqVqypl6EY", "orderNumber": 6 },
+      { "title": "7. Connecting MongoDB via Mongoose", "content": "https://www.youtube.com/watch?v=vjf774RKrLc", "orderNumber": 7 },
+      { "title": "8. Input Validation & Security Headers", "content": "https://www.youtube.com/watch?v=zJg5eRStN4E", "orderNumber": 8 },
+      { "title": "9. Testing REST APIs with Postman", "content": "https://www.youtube.com/watch?v=VywxIQ2ZXw4", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "MongoDB & Mongoose Database Mastery",
+    "description": "Comprehensive guide to MongoDB document databases, CRUD operations, indexing, schema modeling, and aggregation pipelines.",
+    "instructorName": "Angela Yu",
+    "price": 24.99,
+    "thumbnail": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. MongoDB Basics & Document Model", "content": "https://www.youtube.com/watch?v=pWbMrx5rVBE", "orderNumber": 1 },
+      { "title": "2. Installing MongoDB & MongoDB Compass", "content": "https://www.youtube.com/watch?v=OFrY68mVsBg", "orderNumber": 2 },
+      { "title": "3. MongoDB CRUD Operations in Shell", "content": "https://www.youtube.com/watch?v=c2M-rlkkT5o", "orderNumber": 3 },
+      { "title": "4. Introduction to Mongoose ODM", "content": "https://www.youtube.com/watch?v=WDrU305J1yw", "orderNumber": 4 },
+      { "title": "5. Schemas, Models & Validation Rules", "content": "https://www.youtube.com/watch?v=iTxs4d5FmMs", "orderNumber": 5 },
+      { "title": "6. Query Populates & Reference Relationships", "content": "https://www.youtube.com/watch?v=7u3S2xY8X3E", "orderNumber": 6 },
+      { "title": "7. Indexing & Query Performance Optimization", "content": "https://www.youtube.com/watch?v=b4wS8QyT-W0", "orderNumber": 7 },
+      { "title": "8. MongoDB Aggregation Framework Pipeline", "content": "https://www.youtube.com/watch?v=Kk6Er0c7srU", "orderNumber": 8 },
+      { "title": "9. MongoDB Atlas Cloud Deployment", "content": "https://www.youtube.com/watch?v=rPqRyYJmx2g", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "Python Programming & Automation",
+    "description": "Learn Python programming language fundamentals, object-oriented concepts, file handling, and automated scripting.",
+    "instructorName": "Corey Schafer",
+    "price": 29.99,
+    "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. Python Installation & Virtual Environments", "content": "https://www.youtube.com/watch?v=YYXdXT2l-Gg", "orderNumber": 1 },
+      { "title": "2. Python Strings, Numbers & Math Operations", "content": "https://www.youtube.com/watch?v=k9TUPpGqYTo", "orderNumber": 2 },
+      { "title": "3. Lists, Tuples & Sets Data Structures", "content": "https://www.youtube.com/watch?v=W8KRzm-HUcc", "orderNumber": 3 },
+      { "title": "4. Dictionaries & Key-Value Operations", "content": "https://www.youtube.com/watch?v=daefaLgNkw0", "orderNumber": 4 },
+      { "title": "5. Conditionals, Loops & Control Flow", "content": "https://www.youtube.com/watch?v=6iF8Xb7Z3wU", "orderNumber": 5 },
+      { "title": "6. Functions & Named Arguments", "content": "https://www.youtube.com/watch?v=9Os0o3wzS_I", "orderNumber": 6 },
+      { "title": "7. File I/O: Reading and Writing Files", "content": "https://www.youtube.com/watch?v=Uh2ebFW8OYM", "orderNumber": 7 },
+      { "title": "8. Object-Oriented Programming (OOP) Classes", "content": "https://www.youtube.com/watch?v=ZDa-Z5JzLYM", "orderNumber": 8 },
+      { "title": "9. Building an Automation Script Project", "content": "https://www.youtube.com/watch?v=PXMJ6FS140E", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "HTML5 & CSS3 Responsive Web Design",
+    "description": "Build modern, accessible, responsive websites using HTML5 sematics, CSS Flexbox, Grid layout, and animations.",
+    "instructorName": "Kevin Powell",
+    "price": 19.99,
+    "thumbnail": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. HTML5 Semantic Elements & Page Structure", "content": "https://www.youtube.com/watch?v=UB1O30fR-EE", "orderNumber": 1 },
+      { "title": "2. CSS Fundamentals, Selectors & Box Model", "content": "https://www.youtube.com/watch?v=1PnVor36_40", "orderNumber": 2 },
+      { "title": "3. CSS Typography, Colors & Units", "content": "https://www.youtube.com/watch?v=w6-3-D09D5Q", "orderNumber": 3 },
+      { "title": "4. Master CSS Flexbox Layouts", "content": "https://www.youtube.com/watch?v=K74l26pE4YA", "orderNumber": 4 },
+      { "title": "5. Master CSS Grid System", "content": "https://www.youtube.com/watch?v=rg7Fvvl3taU", "orderNumber": 5 },
+      { "title": "6. Responsive Design & Media Queries", "content": "https://www.youtube.com/watch?v=srvUrASNj0s", "orderNumber": 6 },
+      { "title": "7. CSS Transitions, Transforms & Keyframes", "content": "https://www.youtube.com/watch?v=8kK-xA9gA8E", "orderNumber": 7 },
+      { "title": "8. Form Styling & Input Accessibility", "content": "https://www.youtube.com/watch?v=fNcJuPIZ2WE", "orderNumber": 8 },
+      { "title": "9. Building a Complete Responsive Portfolio Website", "content": "https://www.youtube.com/watch?v=xV7S8BhIeBo", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "Git & GitHub Version Control Essentials",
+    "description": "Learn version control with Git and GitHub, branching strategies, pull requests, merge conflict resolution, and teamwork.",
+    "instructorName": "Mosh Hamedani",
+    "price": 14.99,
+    "thumbnail": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. Version Control Concepts & Git Installation", "content": "https://www.youtube.com/watch?v=8JJ101D3knE", "orderNumber": 1 },
+      { "title": "2. Initializing Repositories & Git Staging", "content": "https://www.youtube.com/watch?v=USjZcfj8yxE", "orderNumber": 2 },
+      { "title": "3. Commits, History Log & Diff Checking", "content": "https://www.youtube.com/watch?v=HVsySz-h9r4", "orderNumber": 3 },
+      { "title": "4. Git Branching & Merging Fundamentals", "content": "https://www.youtube.com/watch?v=e2IbNHi4uCI", "orderNumber": 4 },
+      { "title": "5. Resolving Merge Conflicts Step-by-Step", "content": "https://www.youtube.com/watch?v=xN1-2p06Uzc", "orderNumber": 5 },
+      { "title": "6. Connecting Git to Remote GitHub Repositories", "content": "https://www.youtube.com/watch?v=NHsyaVjMOH0", "orderNumber": 6 },
+      { "title": "7. Push, Pull & Fetch Remote Updates", "content": "https://www.youtube.com/watch?v=RGOj5yH7evk", "orderNumber": 7 },
+      { "title": "8. Pull Requests & Code Review Workflow", "content": "https://www.youtube.com/watch?v=8lGpZkjnkt4", "orderNumber": 8 },
+      { "title": "9. Advanced Git Rebase & Stashing Techniques", "content": "https://www.youtube.com/watch?v=zOnwgxiC0OA", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "TypeScript & Modern Frontend Engineering",
+    "description": "Write safer, robust JavaScript with static typing, interfaces, generics, classes, and integration with React.",
+    "instructorName": "Jack Herrington",
+    "price": 34.99,
+    "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. Why TypeScript? Compiler Setup & Config", "content": "https://www.youtube.com/watch?v=ahCwqrYpIuM", "orderNumber": 1 },
+      { "title": "2. Primitive Types & Type Inference", "content": "https://www.youtube.com/watch?v=d56mG7DezGs", "orderNumber": 2 },
+      { "title": "3. Type Aliases & Interfaces", "content": "https://www.youtube.com/watch?v=V0uW_KAh1xY", "orderNumber": 3 },
+      { "title": "4. Union Types, Literal Types & Narrowing", "content": "https://www.youtube.com/watch?v=2p3Vd5F3wWw", "orderNumber": 4 },
+      { "title": "5. Functions, Optional Params & Overloads", "content": "https://www.youtube.com/watch?v=1jMJDbq9Q2E", "orderNumber": 5 },
+      { "title": "6. TypeScript Generics & Type Constraints", "content": "https://www.youtube.com/watch?v=nViEqptjO10", "orderNumber": 6 },
+      { "title": "7. Utility Types (Partial, Pick, Omit, Record)", "content": "https://www.youtube.com/watch?v=30LWjhZzg50", "orderNumber": 7 },
+      { "title": "8. Using TypeScript with React & Hooks", "content": "https://www.youtube.com/watch?v=zQnBQ4tB3ZA", "orderNumber": 8 },
+      { "title": "9. Migrating JavaScript Codebase to TypeScript", "content": "https://www.youtube.com/watch?v=0A6eC3WstD4", "orderNumber": 9 }
+    ]
+  },
+  {
+    "title": "Data Structures & Algorithms in Java",
+    "description": "Master core computer science algorithms and data structures in Java to crack coding interviews and technical assessments.",
+    "instructorName": "Kunal Kushwaha",
+    "price": 44.99,
+    "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600&auto=format&fit=crop&q=60",
+    "lessons": [
+      { "title": "1. Java Environment Setup & Memory Allocation", "content": "https://www.youtube.com/watch?v=wn49bAMA2ac", "orderNumber": 1 },
+      { "title": "2. Arrays & ArrayList Operations", "content": "https://www.youtube.com/watch?v=n60Dn0UsbEk", "orderNumber": 2 },
+      { "title": "3. Linear Search & Binary Search Algorithms", "content": "https://www.youtube.com/watch?v=_HRAzuNEYks", "orderNumber": 3 },
+      { "title": "4. Sorting Algorithms (Bubble, Selection, Insertion)", "content": "https://www.youtube.com/watch?v=g-PGLbMth_g", "orderNumber": 4 },
+      { "title": "5. Recursion & Backtracking Fundamentals", "content": "https://www.youtube.com/watch?v=M2uO2nMT0Bk", "orderNumber": 5 },
+      { "title": "6. LinkedLists: Singly, Doubly & Circular", "content": "https://www.youtube.com/watch?v=58YbpREVP4s", "orderNumber": 6 },
+      { "title": "7. Stacks & Queues Implementations", "content": "https://www.youtube.com/watch?v=rW4Wn2Rvd30", "orderNumber": 7 },
+      { "title": "8. Binary Trees & Tree Traversals (DFS/BFS)", "content": "https://www.youtube.com/watch?v=4s13QLK8acU", "orderNumber": 8 },
+      { "title": "9. Dynamic Programming & Graph Traversal", "content": "https://www.youtube.com/watch?v=gT8H-0S1mJ8", "orderNumber": 9 }
+    ]
+  }
+]
